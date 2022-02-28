@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duthuannguyen
-- 🌱 I’m currently learning embedded programming in Ho Chi Minh city, Vietnam.
+- 🌱 I’m currently learning embedded programming in Ho Chi Minh city, Vietnam. <Feb-2022>
 - 💞️ I’m looking to collaborate on some part-time projects related to embedded programming.
 - 📫 How to reach me : duthuannguyen@gmail.com / Skype: duthuannguyen
 
